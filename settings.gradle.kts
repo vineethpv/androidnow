@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidNow"
 include(":app")
- 
+include(":core:common")
